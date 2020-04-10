@@ -43,3 +43,8 @@ Disadvantages of Bootstrap include:
 --- 
 
 
+css goes at the top to make sure that the user doesnt see an unstyled page and they see the content as they should as early as possible
+
+browser reads html from top to bottom 
+
+JS files might be larger therefore once they are at the bottom, they will load last, hopefully once everuthing else on the page has loaded
