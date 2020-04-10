@@ -42,9 +42,10 @@ Disadvantages of Bootstrap include:
 
 --- 
 
+## Update 10/04/20 - 16:36
 
-css goes at the top to make sure that the user doesnt see an unstyled page and they see the content as they should as early as possible
+During these lessons we have learned that to make sure that Bootstraps CSS links are at the top of the page while the JaveScript links are to go at the bottom of the page, this is because while the browser is reading throught the HTML, the page can be styled almost instantly because the file size for CSS is smaller than JS. Doing this will prevent the user from seeing any unstyled HTML
 
-browser reads html from top to bottom 
+We have also learned how to add in more features such as a burger button to help with mobile displays
 
-JS files might be larger therefore once they are at the bottom, they will load last, hopefully once everuthing else on the page has loaded
+---
