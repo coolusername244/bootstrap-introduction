@@ -25,3 +25,9 @@ So far we have grasped an understanding of:
 4. Expressed how important semantic coding is in relation to search engines
 
 ----
+
+bootstrap
+advantagas include consistency/speed/responsiveness
+
+dis include - restrictivness/dependency
+
