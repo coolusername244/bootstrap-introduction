@@ -26,8 +26,20 @@ So far we have grasped an understanding of:
 
 ----
 
-bootstrap
-advantagas include consistency/speed/responsiveness
+## Update 10/04/20 - 15:08
 
-dis include - restrictivness/dependency
+Since the last update, we have seen how powerful the Bootstrap classes can be. Some of the advantages of using bootstrap inclued:
+
+1. Each page you design has the potential to be consistant throughout
+2. As all of the basic CSS code is written out for you, all you need to do is copy and paste the elements from the web page that you like the looks of and you can instantly use them
+3. With Bootstraps 'mobile-first-design', its very easy to be able to accomodate for screens of all sizes
+
+While Boostrap has a comprihensive library of styles to be used, they are all able to be edited to how you would like them to be. 
+
+Disadvantages of Bootstrap include:
+
+1. Learning Curve - While Bootstrap is a great tool in a developers arsenal, it can take time to get to grips with everything it has to offer right away. Taking time away from development and spending it learning the programme instead
+
+--- 
+
 
