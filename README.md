@@ -49,3 +49,8 @@ During these lessons we have learned that to make sure that Bootstraps CSS links
 We have also learned how to add in more features such as a burger button to help with mobile displays
 
 ---
+## Update 10/04/20 - 20:54
+
+I have a better grasp of how to style the landing page, how to edit css in the browser and am more familiar with bootstraps library
+
+---
