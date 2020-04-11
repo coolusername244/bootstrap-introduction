@@ -2,7 +2,39 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.alert-container {}
+.col-12 {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.alert-container {
+    z-index: 1;
+    background-color: 
+}
+.alert {
+    margin-bottom: 0px;
+}
+
+.alert-text {
+    text-align: center;
+}
+
+.alert-warning {
+    background-color: #E9BE30;
+    border-color: #E9BE30;
+    border-radius: 0px
+}
+
+.text-muted {
+    text-transform: uppercase;
+}
+
+
+.navbar {
+    background-color: #rgba(0, 0, 0, .25);
+}
+
+
 
 .callout-container {
     height: 100vh;
@@ -16,16 +48,64 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5)
 }
 
 .quotes-container {}
 
-.features-container {}
+.features-container {
+    
+}
+
+.feature {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
 
 table.container {}
 
 /*jumbotron*/
 
-.jumbotron-header {
-    
+.jumbotron {
+    background-color: transparent;
+    border: #f19245 3px solid;
+    border-radius: 10px;
 }
+
+.jumbotron h1 {
+    color: #cacaca;
+}
+
+mark {
+    background-color: #f19245;
+}
+
+.text-muted {
+    color: #cacaca!important;
+}
+
+.lead {
+    color: #cacaca;
+}
+
+/* Buttons */
+
+.btn-cta {
+    color: #fff;
+    background-color: #f19245;
+    border-color: #f19245;
+    box-shadow: none;
+}
+
