@@ -54,3 +54,7 @@ We have also learned how to add in more features such as a burger button to help
 I have a better grasp of how to style the landing page, how to edit css in the browser and am more familiar with bootstraps library
 
 ---
+
+## Update 11/04/20 - 13:19
+
+Very happy with todays progress, yesterday i had finished the videos and today i have completed the challenge which stated to completely style one of the page sections to my own liking. 
